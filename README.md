@@ -5,4 +5,5 @@ This project was designed to capture keyboard input and display it in a text box
 
 ## Technologies
 Project is created with:
-WPF and C#
+* WPF
+* C#
