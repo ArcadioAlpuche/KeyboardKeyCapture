@@ -7,3 +7,6 @@ This project was designed to capture keyboard input and display it in a text box
 Project is created with:
 * WPF
 * C#
+
+## What I learned
+I learned about the different steps involved when a user presses a key down and releases it. For this program to work, I needed to capture the key pressed values at different stages of the key pressed event. Different keys needed to be captured at different stages of the key press event.  
